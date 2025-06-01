@@ -1,14 +1,10 @@
 ## Hi there 👋 I'm Vince
 
 
-- 🔭 I'm currently working on Task and Habit Tracker on Web  
-- 🌱 I'm currently learning React
-- 💬 Ask me about Javascript 
-- 📫 How to reach me: vinceferrerasermino25@gmail.com  
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I know how to center a div
+- 🌱 I'm currently building backend projects
 
-## 🛠️ Tech Stack
+
+## 🛠️ Tech 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="250" height="70" style="margin:10px">
